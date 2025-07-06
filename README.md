@@ -2,11 +2,37 @@
 
 **`DIGITAL CRAFTSMAN (Frontend/Backend/Full-Stack)`**
 
-I'm a full-stack developer with 2+ years of experience working in the industry. Im a enthusiastic digital craftsman creating my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real life problems with code.
+I'm a passionate full-stack developer with 2+ years of industry experience. I craft digital solutions from the ground up, from planning and UI design to solving real-world problems through clean, scalable code. Currently focused on building modern web applications using React, TypeScript, and Spring Boot.
+
+<p align="left">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://yourwebsite.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄-Resume-green?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/✍️-Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+
 
 #
 
+
+
+
+
+
 ### 🧰 Languages and Tools
+
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -30,17 +56,4 @@ I'm a full-stack developer with 2+ years of experience working in the industry. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deeshon&theme=highcontrast)](https://git.io/streak-stats)
 
-<!--
-**Deeshon/Deeshon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
