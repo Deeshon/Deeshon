@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with 2+ years of industry experience. I cr
     <img src="https://img.shields.io/badge/📄-Resume-green?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/deeshon-hunukumbura-83622a267" target="_blank">
     <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
